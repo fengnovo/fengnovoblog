@@ -24,7 +24,14 @@ npm install
 npm run build  
 ```
 
+## 测试test运行  
+```  
+npm install  
+npm test  
+```
+
 ### pm2运行  
 ```  
-npm start  
+npm install  
+npm production  
 ```
